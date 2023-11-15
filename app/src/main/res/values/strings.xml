@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Space</string>
+    <string name="space_aplication">Find out your favorite planet. Lets go!!</string>
+    <string name="explore">Explore</string>
+    <string name="space">Space</string>
+
+    <string name="name">Name:</string>
+    <string-array name="nameSpace">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+        <item>Milky Way</item>
+        <item>Nebula</item>
+        <item>Solar System</item>
+    </string-array>
+
+    <string name="description">Description</string>
+    <string-array name="desArray">
+        <item>The smallest planet in our solar system and nearest to the Sun, Mercury is only slightly larger than Earths Moon. From the surface of Mercury, the Sun would appear more than three times as large as it does when viewed from Earth, and the sunlight would be as much as seven times brighter.</item>
+        <item>Venus is a cloud-swaddled planet named for a love goddess, and often called Earths twin. But pull up a bit closer, and Venus turns hellish. Our nearest planetary neighbor, the second planet from the Sun, has a surface hot enough to melt lead.</item>
+        <item>Earth, our home planet, is a world unlike any other. The third planet from the sun, Earth is the only place in the known universe confirmed to host life. With a radius of 3,959 miles, Earth is the fifth largest planet in our solar system, and it is the only one known for sure to have liquid water on its surface.</item>
+        <item>Mars is the fourth planet from the sun and has a distinct rusty red appearance and two unusual moons.The Red Planet is a cold, desert world within our solar system. It has a very thin atmosphere, but the dusty, lifeless (as far as we know it) planet is far from dull.</item>
+        <item>Jupiter is the fifth planet from our Sun and is, by far, the largest planet in the solar system – more than twice as massive as all the other planets combined. Jupiters stripes and swirls are actually cold, windy clouds of ammonia and water, floating in an atmosphere of hydrogen and helium.</item>
+        <item>Saturn is the sixth planet from the Sun and the second-largest planet in our solar system. Like fellow gas giant Jupiter, Saturn is a massive ball made mostly of hydrogen and helium. Saturn is not the only planet to have rings, but none are as spectacular or as complex as Saturns. Saturn also has dozens of moons.</item>
+        <item>Uranus is one of two ice giants in the outer solar system (the other is Neptune). Most (80% or more) of the planets mass is made up of a hot dense fluid of "icy" materials – water, methane, and ammonia – above a small rocky core. Near the core, it heats up to 9,000 degrees Fahrenheit (4,982 degrees Celsius).</item>
+        <item>Neptune is one of two ice giants in the outer solar system (the other is Uranus). Most (80% or more) of the planets mass is made up of a hot dense fluid of "icy" materials – water, methane, and ammonia – above a small, rocky core. Of the giant planets, Neptune is the densest.</item>
+        <item>Pluto is a complex and mysterious world with mountains, valleys, plains, craters, and maybe glaciers. It is located in the distant Kuiper Belt. Discovered in 1930, Pluto was long considered our solar systems ninth planet.</item>
+        <item>The Milky Way is the galaxy that includes the Solar System, with the name describing the galaxys appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye.</item>
+        <item>A nebula is a giant cloud of dust and gas in space. Some nebulae (more than one nebula) come from the gas and dust thrown out by the explosion of a dying star, such as a supernova. Other nebulae are regions where new stars are beginning to form. For this reason, some nebulae are called "star nurseries."</item>
+        <item>Our solar system is made up of a star, eight planets, and countless smaller bodies such as dwarf planets, asteroids, and comets. Our solar system orbits the center of the Milky Way galaxy at about 515,000 mph (828,000 kph). We are in one of the galaxs four spiral arms.</item>
+    </string-array>
+
+    <string name="averange">Average Radius:</string>
+    <string-array name="aveArray">
+        <item>2.440 km</item>
+        <item>6.052 km</item>
+        <item>3.390 km</item>
+        <item>6.371 km</item>
+        <item>69.911 km</item>
+        <item>58.232 km</item>
+        <item>25.362 km</item>
+        <item>24.622 km</item>
+        <item>1,151 km</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+    </string-array>
+
+    <string name="character">Characteristic:</string>
+    <string name="about">About</string>
+    <string name="muhamad_alfian_widjaya">Muhamad Alfian Widjaya</string>
+    <string name="desme">About Me</string>
+    <string name="me">I am a creative person, easy to learn new things and easy to get along with. I have expertise in creating Restful API, processing databases and developing web applications. I am a person who can do well as part of a team and on my own. I am also a hard worker, and eager to learn.</string>
+    <string-array name="charArray">
+        <item>It has no atmosphere, so the inner space of this planet looks dark and has extreme temperatures.</item>
+        <item>the hottest planet in the Solar System with a surface temperature reaching 462°C and a very dense atmosphere, consisting of 96.5% carbon dioxide and 3.5% nitrogen</item>
+        <item>It has friendly conditions for living creatures and is the only planet in the solar system that hosts living creatures.</item>
+        <item>mostly consists of carbon dioxide (95.3%), nitrogen (2.7%), argon (1.6%), oxygen (0.15%), and water (0.03%).</item>
+        <item>It is the largest planet in the solar system. It has a color that appears layered with a combination of orange and white.</item>
+        <item>Pale yellow in color. Has a ring made of ice clumps that surround its atmosphere.</item>
+        <item>It is a planet that has the lowest and coldest temperature, namely around -224° Celsius. It is light blue in color. It has a unique ring that circles the planet vertically.</item>
+        <item>It is a blue planet. It is surrounded by 8 satellites, including Triton, Proteus, Nereid, and Larissa.</item>
+        <item>Pluto has five known moons to date. Its largest moon is Charon, which is half the size of Pluto. Like Earth, Pluto has gravity, but only one-fifth of Earths gravity.</item>
+        <item>Spiral shaped like a road. Has a shape similar to a disk. Has a color that resembles the color of milk. Has 200 billion – 400 billion stars.</item>
+        <item>there is a stars gravity which attracts particles around it. there is a collision between two stars and one of them is destroyed. there is a process of decreasing temperature during the period when it becomes a planet.</item>
+        <item>asdafsa</item>
+    </string-array>
+
+    <integer-array name="photoSpace">
+        <item>@drawable/mercury</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/earth</item>
+        <item>@drawable/mars</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/saturn</item>
+        <item>@drawable/uranus</item>
+        <item>@drawable/neptun</item>
+        <item>@drawable/pluto</item>
+        <item>@drawable/nebula</item>
+        <item>@drawable/milky_way</item>
+        <item>@drawable/solar_system</item>
+    </integer-array>
+
+</resources>
